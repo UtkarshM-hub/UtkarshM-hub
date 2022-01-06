@@ -46,3 +46,7 @@
 ### My Github Stats:
 
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshM-Hub&show_icons=true&theme=tokyonight)](https://github.com/UtkarshM-Hub/github-readme-stats)
+
+### My Language Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshM-Hub&theme=tokyonight)](https://github.com/UtkarshM-Hub/github-readme-stats)
