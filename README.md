@@ -1,4 +1,5 @@
-### Hi There, I'm Utkarsh
+
+### Hi There [<img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"/>](), I'm Utkarsh
 
 [<img align="center" alt="bgimage" width="1500px" height="300px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>](https://www.linkedin.com/in/utkarsh-mandape-3a94a0197/)
 
@@ -58,6 +59,8 @@
 ### My Github Stats:
 
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshM-Hub&show_icons=true&theme=tokyonight)](https://github.com/UtkarshM-Hub/github-readme-stats)
+<br/>
+![](https://komarev.com/ghpvc/?username=UtkarshM-hub&color=blue)
 
 ### My Language Stats:
 
