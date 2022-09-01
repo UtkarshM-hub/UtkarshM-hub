@@ -1,5 +1,7 @@
 ### Hi There, I'm Utkarsh
 
+[<img align="center" alt="bgimage" width="1500px" height="300px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>](https://www.linkedin.com/in/utkarsh-mandape-3a94a0197/)
+
 ## I'm a Developer, Learner and Thinker
 
 - 👩‍💻 I'm currently learning DevOps
@@ -19,6 +21,10 @@
 <br/>
 
 ### Language and Tools:
+
+[<img align="center" alt="funnygif" width="500" height="300px" src="https://media.giphy.com/media/l1KuiQXE2g0OIl9NC/giphy.gif"/>]()
+
+
 
 [<img align="left" alt="GO" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"/>]()
 
