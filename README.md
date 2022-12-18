@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I Love to Explore and Experiment
 
 ### Portfolio website
-<a href="https://634006754386e33a856c66d8--gentle-liger-61e146.netlify.app/" target="_blank">Portfolio</a>
+<a href="https://gentle-liger-61e146.netlify.app/" target="_blank">Portfolio</a>
 
 ### Connect with me:
 
