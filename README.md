@@ -1,7 +1,7 @@
 
 ### Hi There [<img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"/>](), I'm Utkarsh
 
-[<img align="center" alt="bgimage" width="1500px" height="300px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>](https://www.linkedin.com/in/utkarsh-mandape-3a94a0197/)
+[<img align="center" alt="bgimage" width="1500px" height="500px" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"/>](https://www.linkedin.com/in/utkarsh-mandape-3a94a0197/)
 
 ## I'm a Developer, Learner and Thinker
 
