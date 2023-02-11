@@ -7,7 +7,7 @@
 
 - 👩‍💻 I'm currently learning DevOps
 - 🎋  Exploring Everything I find Interesting
-- 🥅 2022 Goal: Contribute to Open-Source
+- 🥅 2023 Goal: Contribute to Open-Source
 - ⚡ Fun fact: I Love to Explore and Experiment
 
 ### Portfolio website
