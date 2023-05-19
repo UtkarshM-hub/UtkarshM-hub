@@ -5,10 +5,14 @@
 
 ## I'm a Developer, Learner and Thinker
 
+<a align="right" href="https://app.daily.dev/LightningEmperor"><img src="https://api.daily.dev/devcards/fb60168a6e7648fbbc8c5243939f19ec.png?r=g9w" width="300" alt="Lightning Emperor's Dev Card" align="right"/></a>
+
 - 👩‍💻 I'm currently learning DevOps
 - 🎋   Exploring Everything I find Interesting
 - 🥅 2023 Goal: Contribute to Open-Source
 - ⚡ Fun fact: I Love to Explore and Experiment
+
+
 
 ### Portfolio website
 <a href="https://gentle-liger-61e146.netlify.app/" target="_blank">Portfolio</a>
