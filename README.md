@@ -37,8 +37,6 @@
 
 [<img align="left" alt="GO" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"/>]()
 
-[<img align="left" alt="Python" width="22px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png"/>]()
-
 [<img align="left" alt="ReactJS" width="22px" src="https://res.cloudinary.com/dcglxmssd/image/upload/v1684502089/react_mm3wy1.png"/>]()
 
 [<img align="left" alt="CSS" width="22px" src="https://res.cloudinary.com/dcglxmssd/image/upload/v1684502088/css_utxgvk.png"/>]()
@@ -48,8 +46,6 @@
 [<img align="left" alt="NodeJS" width="22px" src="https://res.cloudinary.com/dcglxmssd/image/upload/v1684502089/node_acidpa.png"/>]()
 
 [<img align="left" alt="mongoDb" width="22px" src="https://img.icons8.com/color/452/mongodb.png"/>]()
-
-[<img align="left" alt="GraphQl" width="22px" src="https://img.icons8.com/color/344/graphql.png"/>]()
 
 [<img align="left" alt="git" width="22px" src="https://img.icons8.com/color/344/git.png"/>]()
 
