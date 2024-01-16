@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&weight=900&duration=3000&pause=1000&color=DC80FF&width=435&lines=Hi+There+%E2%9C%8C+%2C+I'm+Utkarsh)](https://git.io/typing-svg)
 
-[<img align="center" alt="bgimage" width="1500px" height="500px" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"/>](https://www.linkedin.com/in/utkarsh-mandape-3a94a0197/)
+[<img align="center" alt="bgimage" width="1500px" height="500px" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"/>](https://www.linkedin.com/in/utkarsh-mandape-3a94a0197/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&size=30&weight=900&duration=3000&pause=1000&color=DC80FF&width=800&lines=I'm+a+Developer%2C+Learner+and+Thinker)](https://git.io/typing-svg)
 
