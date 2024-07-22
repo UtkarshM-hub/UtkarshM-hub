@@ -7,16 +7,16 @@
 
 <a align="right" href="https://app.daily.dev/LightningEmperor"><img src="https://api.daily.dev/devcards/fb60168a6e7648fbbc8c5243939f19ec.png?r=g9w" width="300" alt="Lightning Emperor's Dev Card" align="right"/></a>
 
-- 👩‍💻 I'm currently learning DevOps
-- 🎋   Exploring Everything I find Interesting
-- 🥅 2023 Goal: Contribute to Open-Source
+- 👩‍💻 I'm currently learning GoLang
+- 🎋 Exploring Everything I find Interesting
+- 🥅 2024 Goal: Contribute to Open-Source
 - ⚡ Fun fact: I Love to Explore and Experiment
 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&weight=900&duration=3000&pause=1000&color=DC80FF&width=435&lines=Portfolio+website)](https://git.io/typing-svg)
 
-<a href="https://gentle-liger-61e146.netlify.app/" target="_blank">Portfolio</a>
+<a href="https://i-portfolio-theta.vercel.app/" target="_blank">Portfolio</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&weight=900&duration=3000&pause=1000&color=DC80FF&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 
