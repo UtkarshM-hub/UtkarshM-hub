@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&weight=900&duration=3000&pause=1000&color=DC80FF&width=435&lines=Portfolio+website)](https://git.io/typing-svg)
 
-<a href="https://i-portfolio-theta.vercel.app/" target="_blank">Portfolio</a>
+<a href="https://www.utkarshmandape.me/" target="_blank">Portfolio</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&weight=900&duration=3000&pause=1000&color=DC80FF&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 
