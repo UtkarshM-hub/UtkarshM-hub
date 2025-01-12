@@ -9,7 +9,7 @@
 
 - 👩‍💻 I'm currently learning GoLang
 - 🎋 Exploring Everything I find Interesting
-- 🥅 2024 Goal: Contribute to Open-Source
+- 🥅 2025 Goal: Contribute to Open-Source
 - ⚡ Fun fact: I Love to Explore and Experiment
 
 
